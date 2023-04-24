@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/UnrealProjects/EndlessRunner/Content/StarterContent/Audio/Collapse01.uasset",
+				"G:/UnrealProjects/EndlessRunner/Content/RunnerMap.umap"
+			]
+		}
+	]
+}
