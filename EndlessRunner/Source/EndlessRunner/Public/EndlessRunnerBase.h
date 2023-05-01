@@ -18,10 +18,15 @@ class ENDLESSRUNNER_API AEndlessRunnerBase : public AGameModeBase
 			TSubclassOf<AActor> floor;
 		UPROPERTY(EditDefaultsOnly)
 			TSubclassOf<AActor> walls;
+		UPROPERTY(EditDefaultsOnly)
+
 
 		void BeginPlay() override;
 
 		void Tick(float DeltaTime) override;
+
+		UFUNCTION(BlueprintCallable, Category = "Floor Actor")
+		void SpawnMyActor(FVector SpawnLocation, FRotator SpawnRotation);
 
 		AEndlessRunnerBase();
 
