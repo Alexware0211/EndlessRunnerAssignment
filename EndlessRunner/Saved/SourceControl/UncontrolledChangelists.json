@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/Actors/BP_Runner.uasset",
+				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/CharacterRelated/Orange.uasset",
+				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/Actors/BP_Coins.uasset",
+				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/UMG/Widget_GameHUD.uasset",
+				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/UMG/Widget_MainMenu.uasset",
+				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/UMG/Widget_GameOver.uasset",
+				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/Maps/MainMenu.umap",
+				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/C++Assignment/EndlessRunnerAssignment/EndlessRunner/Content/Maps/MainMap.umap",
 				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/Endless-Runner-main/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/Endless-Runner-main/Content/Actors/BP_RunningPlatform.uasset",
 				"C:/Users/alexander.wahrensted/OneDrive - Change Maker Education/Dokument/Endless-Runner-main/Content/Actors/BP_Obstacle.uasset",
