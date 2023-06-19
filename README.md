@@ -1,7 +1,5 @@
 # Endless Runner Game
 
-Welcome to my Endless Runner game, made with Unreal Engine 5.1.1 using C++ only! 
-
 # Controls
 
 These are the following controlls that you'll use
